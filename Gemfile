@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'berkshelf', '~>3.2.0'
+gem 'berkshelf', '~> 3.2.1'
 gem 'nokogiri', '~>1.6.3.1'
 gem 'strainer'
 gem 'foodcritic'
