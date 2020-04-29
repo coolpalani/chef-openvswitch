@@ -6,10 +6,10 @@ gem 'strainer'
 gem 'foodcritic'
 gem 'rubocop'
 gem 'minitest'
-gem 'chefspec'
+gem 'chefspec', '>= 4.1.1'
 gem 'rspec'
 gem 'rake'
-gem 'chef', '~>11'
+gem 'chef', '~> 16', '>= 16.0.257'
 gem 'hitimes'
 
 group :kitchen  do
